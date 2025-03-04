@@ -9,6 +9,8 @@ This repository contains my **internship tasks** as part of the **Artificial Int
 ## ✅ Completed Tasks  
 
 ✔️ **Task 1** – Language Translation Tool *(Completed on 2025-03-02)*  
+✔️ **Task 1** – Chatbot For FAQs *(Completed on 2025-03-04)*
+
 
 📌 *More tasks will be added as the internship progresses... Stay tuned!* 🚀  
 
