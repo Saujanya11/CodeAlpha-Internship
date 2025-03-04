@@ -1,0 +1,32 @@
+{
+  "faqs": [
+    {
+      "question": "What is a chatbot?",
+      "answer": "A chatbot is a software application that uses artificial intelligence to simulate human-like conversations with users through text or voice interactions."
+    },
+    {
+      "question": "How does this chatbot work?",
+      "answer": "This chatbot uses natural language processing to understand your questions, matches them against a database of FAQs, and returns the most relevant answer. If it can't find a matching FAQ, it searches the web for an answer."
+    },
+    {
+      "question": "What is AI?",
+      "answer": "AI (Artificial Intelligence) refers to computer systems designed to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation."
+    },
+    {
+      "question": "What is NLP?",
+      "answer": "NLP (Natural Language Processing) is a field of artificial intelligence that enables computers to understand, interpret, and generate human language in a way that is valuable."
+    },
+    {
+      "question": "How do I add new FAQs?",
+      "answer": "You can add new FAQs by editing the faqs.json file and adding new question-answer pairs in the JSON format."
+    },
+    {
+      "question": "What is your name?",
+      "answer": "I'm an FAQ Chatbot designed to help you find information."
+    },
+    {
+      "question": "who created you?",
+      "answer": "I was created by Saujanya as a Java-based FAQ chatbot project using Stanford CoreNLP for natural language processing."
+    }
+  ]
+}
